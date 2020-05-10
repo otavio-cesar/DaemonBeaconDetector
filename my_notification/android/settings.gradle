@@ -1,0 +1,12 @@
+rootProject.name = 'my_notification'
+include ':react-native-invoke-app'
+project(':react-native-invoke-app').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-invoke-app/android')
+include ':react-native-beacons-manager'
+project(':react-native-beacons-manager').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-beacons-manager/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':react-native-background-job'
+project(':react-native-background-job').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-background-job/android')
+include ':react-native-notifications'
+ project(':react-native-notifications').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-notifications/lib/android/app')
+
+include ':app'

@@ -1,0 +1,43 @@
+// you must create your own file using firebase to the local notification work
+
+
+// {
+//     "project_info": {
+//       "project_number": "391945202548",
+//       "firebase_url": "https://rcss-27509.firebaseio.com",
+//       "project_id": "rcss-27509",
+//       "storage_bucket": "rcss-27509.appspot.com"
+//     },
+//     "client": [
+//       {
+//         "client_info": {
+//           "mobilesdk_app_id": "1:391945202548:android:faebf88e17a7099f8b9a21",
+//           "android_client_info": {
+//             "package_name": "com.my_notification"
+//           }
+//         },
+//         "oauth_client": [
+//           {
+//             "client_id": "",
+//             "client_type": 3
+//           }
+//         ],
+//         "api_key": [
+//           {
+//             "current_key": ""
+//           }
+//         ],
+//         "services": {
+//           "appinvite_service": {
+//             "other_platform_oauth_client": [
+//               {
+//                 "client_id": "",
+//                 "client_type": 3
+//               }
+//             ]
+//           }
+//         }
+//       }
+//     ],
+//     "configuration_version": "1"
+//   }
