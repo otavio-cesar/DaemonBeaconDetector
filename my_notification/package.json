@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.62.0",
+    "react-native": "0.62.3",
     "react-native-background-job": "^2.3.1",
     "react-native-beacons-manager": "^1.0.7",
     "react-native-invoke-app": "^1.0.4",
